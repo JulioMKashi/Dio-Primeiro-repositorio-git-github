@@ -6,3 +6,10 @@
     font-size: 16px;
     font-style: italic;
 }
+
+.post{
+    background: #fff;
+    padding: 10px;
+    border: 3px;
+    margin: 10px;
+}
