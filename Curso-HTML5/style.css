@@ -1,5 +1,4 @@
 body {
-    background-color: #777;
     font-family: Verdana;
     max-width: 900px;
     margin: auto; 
@@ -48,6 +47,7 @@ a{
 }
 
 .contact_list{
+    color: cornflowerblue;
     list-style-type: none;
     padding-left: 15px; 
 }
